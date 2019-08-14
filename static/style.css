@@ -1,0 +1,42 @@
+html, body {
+    text-align: center;
+}
+nav {
+    background-color: rebeccapurple;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    width: 75vw;
+    margin: 0 auto;
+
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+     display: inline-block;
+     margin-right: 100px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+ul {
+    list-style-type: none;
+}
+
+nav a:hover {
+    color: hotpink;
+}
+img {
+    max-height: 150px;
+    max-width: 150px;
+}
+img:hover {
+    max-height: 600px;
+    max-width: 600px;
+}
